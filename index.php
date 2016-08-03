@@ -9,6 +9,9 @@
 		username:<input type="text" name="username">
 		</div>
 		<div>
+		password:<input type="text" name="password">
+		</div>
+		<div>
 		<input type="submit" name="submit" value="Submit123">
 		</div>
 	</form>
